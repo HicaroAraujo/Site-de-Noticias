@@ -127,7 +127,7 @@ main {
 
 
 aside{
-     background-image: url(colorida.jpeg);
+     background-image: url(./imagens/colorida.jpeg);
     text-align: center;
     width: 13% ;
     float:right;
